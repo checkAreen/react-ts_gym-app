@@ -1,6 +1,6 @@
 {
-  "name": "react-ts-gym.github.io",
   "homepage": "https://github.com/checkAreen/react-ts-gym.github.io",
+  "name": "react-ts-gym.github.io",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,7 +15,6 @@
   "dependencies": {
     "@heroicons/react": "^2.0.18",
     "framer-motion": "^10.12.17",
-    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^18.2.0",
@@ -33,6 +32,7 @@
     "eslint": "^8.38.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
+    "gh-pages": "^5.0.0",
     "postcss": "^8.4.24",
     "prettier": "^2.8.8",
     "prettier-plugin-tailwindcss": "^0.3.0",
