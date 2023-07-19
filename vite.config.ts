@@ -7,4 +7,5 @@ export default defineConfig({
     alias: [{find: '@', replacement: path.resolve(__dirname, 'src')}]
   },
   plugins: [react()],
+  base: "/react-ts_gym-app/"
 })
